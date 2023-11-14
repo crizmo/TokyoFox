@@ -28,12 +28,10 @@ on MacOS) ➔ click the button "Open Directory" (or "Show in Finder" on MacOS)
 - Copy the chrome folder from this repo and paste it there
 - Restart Firefox.
 
-<h1 align="center"><b>Support</b></h1>
+<h1 align="center"><b>Info</b></h1>
 
 <p align="center">
-  If you have any problems you can open an issue on this repository!
+  <b>NOTE:</b> This project is still in development. <br>
+  If you have any suggestions or ideas, please open an issue or a pull request.
 </p>
 
-<p align="center">
-  Feel free to contribute to this project. Any help is appreciated!
-</p>
