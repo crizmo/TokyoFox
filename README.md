@@ -1,14 +1,12 @@
 <p align="center">
-  <img width="100" height="100"
-    src="https://github.com/crizmo/TokyoFox/assets/83665497/f8109023-c080-4405-b957-9b6fb95901d0" alt="Logo"/>
+  <img width="100" height="100" src="./screenshots/logo.png" alt="Logo"/>
   <h1 align="center"><b>TokyoFox for Firefox</b></h1>
 </p>
 <p align="center">
   Elevate your browsing with anime vibes in this sleek Firefox theme!
 </p>
 <p align="center">
-  <img src="https://github.com/crizmo/TokyoFox/assets/83665497/84d72608-2b38-452e-9cae-719c90cfc5d8"
-    alt="tokyofox-preview" />
+  <img src="./screenshots/home.png"alt="tokyofox-preview" />
 </p>
 <h1 align="center"><b>Installation</b></h1>
 <p align="center">
