@@ -1,6 +1,6 @@
 <p align="center">
   <img width="100" height="100"
-    src="https://github.com/crizmo/TokyoFox/assets/83665497/98f99251-7252-4fc1-8aa5-07f9bac33122" alt="Logo"/>
+    src="https://github.com/crizmo/TokyoFox/assets/83665497/f8109023-c080-4405-b957-9b6fb95901d0" alt="Logo"/>
   <h1 align="center"><b>TokyoFox for Firefox</b></h1>
 </p>
 <p align="center">
